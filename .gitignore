@@ -1,0 +1,8 @@
+node_modules
+.env.local
+backend/serviceAccount.json
+backend/local_db.json
+backend/logs/*.log
+
+
+
